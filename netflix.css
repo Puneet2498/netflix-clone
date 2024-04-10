@@ -1,0 +1,105 @@
+*{margin: 0px; padding: 0px;box-sizing: border-box;}
+.net{height: auto;width: 100%;}
+.nav{height: 700px; width: 100% ;background-size: cover;}
+.gra{
+height: 700px; width: 100% ;background-size:cover;
+background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);position: absolute;top: 0px;
+}
+.con{ position: absolute;  top: 0px; display: flex; justify-content: space-between; height: auto; width: 100%}
+.ok{height: auto;;  margin-top: 30px; display: flex; position: absolute; text-align: left ; margin-left: 70%;}
+.ok select{padding: 7px 20px; background: none; color: white; border-radius: 5px;}
+.ok option{color: black;}
+.ok button{background-color: red; color: white;padding: 7px 20px; border-radius: 5px; margin-left: 10px; border: none;}
+.flix{margin-left: 150px;}
+.head h1{font-size: 50px;font-weight: bolder; }
+.head h3{font-size: 20px;} 
+.head{text-align: center; position: absolute;top: 350px; color: white; left: 15%; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; line-height: 50px;}
+.head input{padding: 20px 15px; background: none; border: 1px solid white;color: white;}
+.head button{padding: 20px 35px; color: white; background-color: red; font-size: 18px; border: none;border-radius: 5px;
+}
+
+
+.horizontal_line {
+    width: 100%;
+    height: 5px;
+    border-top: 5px solid rgb(60, 59, 59);
+    line-height: 80%;
+    
+}
+.nor{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.enjoy{ color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; height: 100px; width: 30%; margin-top: 8%; margin-left: 10%;}
+.enjoy h1{font-size: 50px;font-weight: bolder; }
+.enjoy h3{font-size: 20px;} 
+.tv{margin-right: 15%;margin-top: 5%;z-index: 2;}
+.things iframe{position: absolute;right: 322px; border: none; margin-top: 80px;}
+.nor{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.ani{margin-top: 7%; position: absolute;right: 23%;z-index: 1; border: none;}
+.ani iframe{border: none;}
+.gor{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.joy{ color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; height: 100px; width: 30%; margin-top: 8%; margin-right: 10%;}
+.joy h1{font-size: 60px;font-weight: bolder; }
+.joy h3{font-size: 20px;} 
+.mob{margin-left: 15%;margin-top: 5%;}
+.gor{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.shot{height: 100px;width: 300px; background:black; position: absolute; border: 1px solid white; left: 22%;border-radius: 10px; margin-top: 22%;color: white;display: flex;}
+.shot h3{margin-top: 30px; margin-left: 10px;}
+.shot p{margin-top: 55px; color: rgb(22, 95, 205);margin-left: 70px; position: absolute;}
+.shot img{margin-left: 10px; margin-top: 20px;}
+.boy{ color: white;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; height: 100px; width: 50%; margin-top: 8%; margin-right: 10%;}
+.boy h1{font-size: 60px;font-weight: bolder; }
+.boy h3{font-size: 20px;} 
+.quest{height: 900px;width: 100%;background-color: black;}
+.ask{color: white; padding-top: 5%;text-align: center;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: x-large;font-weight: bolder;}
+.what{background-color: rgb(60, 59, 59);color: white; width: 70%;padding: 40px 15px; display: flex;margin-left: 15%;height: 8%;margin-top: 10px;;}
+.what h3{ margin-left: 20px; font-size: 22px;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-weight: lighter;}
+.what:hover{
+    background-color: rgb(106, 103, 103);
+    cursor:pointer;
+}
+.two{color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;margin-left: 25%;}
+.two h3{font-size: 20px; margin-left: -50px;}
+.two input{
+    padding: 20px 15px; background: none; border: 1px solid white;color: white;background-color: rgb(36, 35, 35);
+}
+
+.two button{padding: 20px 35px; color: white; background-color: red; font-size: 18px; border: none;border-radius: 5px;
+margin-top: 10px;}
+footer{background-color: black; height: 400px; width: 100%;}
+.ph{color: white;padding-top: 5%; padding-left: 12%;font-size: 18px;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.ph a{color: white; text-decoration: none;}
+.bottom{display: grid; grid-template-columns: auto auto auto auto; margin-left: 12%;font-weight: lighter;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;margin-top: 2%;}
+.bottom a{color: white; line-height: 40px;}
+.yes{height: auto;;  margin-top: 30px; display: flex; position: absolute; text-align: left ; margin-left: 12%;}
+.yes select{padding: 7px 20px; background: none; color: white; border-radius: 5px; background-color:rgb(60, 59, 59);border: 1px solid black;}
+.yes option{color: black;background-color: white;}
+.end h4{color: white; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-weight: lighter;margin-top: 6%;margin-left: 12%;}
+
+
+
